@@ -1,7 +1,8 @@
 const titleForm = document.getElementById('titleForm')
 const form = document.getElementById('form')
 const trLoader = document.getElementById('trLoader')
-const URL_API = "https://server-usuarios-qsdd.onrender.com/usuarios"
+//const URL_API = "https://server-usuarios-qsdd.onrender.com/usuarios"
+const URL_API = "https://proyecto-backend-1-i12m.onrender.com/usuarios"
 const submitButton = document.getElementById('btnSubmit')
 const $tbody = document.getElementById('tbody')
 
